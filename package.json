@@ -1,0 +1,38 @@
+{
+  "name": "react-seed",
+  "version": "0.0.0",
+  "description": "My own react seed.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/lab/bin/lab -c"
+  },
+  "author": "Randall A. Gordon",
+  "repository": "https://github.com/randallagordon/react-seed",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^1.5.2",
+    "browserify": "^5.12.1",
+    "del": "^0.1.3",
+    "gulp": "^3.8.8",
+    "gulp-jscs": "^1.1.2",
+    "gulp-jshint": "^1.8.4",
+    "gulp-jsxcs": "^0.1.2",
+    "gulp-lab": "^1.0.0",
+    "gulp-react": "^1.0.2",
+    "gulp-sass": "^1.0.0",
+    "jshint": "^2.5.6",
+    "jshint-stylish": "^1.0.0",
+    "jsxcs": "0.0.3",
+    "lab": "^4.5.1",
+    "mkdirp": "^0.5.0",
+    "node-jsx": "^0.11.0",
+    "reactify": "^0.14.0",
+    "vinyl-source-stream": "^1.0.0"
+  },
+  "dependencies": {
+    "react": "^0.11.2",
+    "react-async": "^1.0.2",
+    "react-router-component": "^0.20.1"
+  }
+}

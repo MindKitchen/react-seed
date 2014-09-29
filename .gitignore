@@ -1,0 +1,51 @@
+########################
+# node.js / npm
+########################
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+
+pids
+logs
+results
+
+node_modules
+
+npm-debug.log
+
+
+########################
+# bower
+########################
+bower_components
+
+########################
+# misc / editors
+########################
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+Session.vim
+build
+dist
+.*.sw*
+
+########################
+# grunt / toolchain
+########################
+.tmp
+karma_html
+coverage
+.sass-cache
+docs
+styleguide
+coverage.html
+build
+dist
