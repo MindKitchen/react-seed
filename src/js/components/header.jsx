@@ -10,7 +10,7 @@ module.exports = React.createClass({
     /*jshint ignore:start*/
     return (
       <header>
-        <Link href="/">Homeward</Link>
+        <Link href="/">Home</Link>
       </header>
     );
     /*jshint ignore:end*/
